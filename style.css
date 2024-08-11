@@ -1,0 +1,190 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+}
+
+body{
+
+    background-color: black;
+    color: white;
+    
+  
+}
+
+.col{
+    background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url("https://i.redd.it/zjgs096khv591.jpg");
+    width: 100%;
+    height: 730px;
+    background-size: cover;
+    
+}
+
+.row{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around
+}
+
+.netflix-logo img{
+
+    width: 160px;
+    margin-left: 50px;
+    margin-top: 30px;
+    cursor: pointer;
+
+}
+
+nav button{
+
+    margin-right: 20px;
+    margin-top: 25px;
+    padding-right: 30px;
+    border: 0px;
+    outline: 0px;
+    background: #db0001;
+    color: white;
+    padding: 10px;
+    font-size: 12px;
+    border-radius: 4px;
+    width: 120px;
+    
+
+}
+
+nav button img{
+    width: 10px;
+    margin-left: 5px;
+    
+}
+
+.drag{
+    background: transparent;
+    border: 1px solid white;
+}
+
+.no:hover{
+
+    background-color: rgb(181, 6, 6);
+
+}
+
+.content{
+    text-align: center;
+    margin-top: 250px;
+}
+
+.email1{
+
+    width: 350px;
+    height: 51px;
+    border: 0px;
+    background: transparent;
+    border: 1px solid white;
+    padding-left: 20px;
+    border-radius: 4px;
+    
+}
+.email1 input{
+    height: 5px;
+}
+.btn3{
+    height:51px ;
+    font-size: 22px;
+    width: 200px ;
+    margin: 5px;
+    margin-top: 10px;
+    padding-top:2px ;
+    
+
+
+    
+}
+
+.row5{
+    display: flex;
+}
+
+.img1{
+    margin-left: 80px;
+    margin-top: 120px;
+    padding-left: 30px;
+}
+
+.section{
+    margin-left: 150px;
+    margin-top:250px
+}
+
+
+.img2{
+    margin-left: 70px;
+    margin-top:70px
+}
+
+.row6{
+    display: flex;
+}
+
+.section2{
+    margin-left: 30px;
+    margin-top: 250px;
+}
+
+.row12{
+    text-align: center;
+}
+
+.row13{
+ height: 500px;
+ width: 100%;
+
+}
+
+.col7{
+    width: 900px;
+    height: 70px;
+    background-color: rgb(46, 45, 45);
+    margin: 8px;
+    margin-left: 310px;
+}
+
+.row14{
+    text-align: center;
+}
+
+.flex1{
+
+    display: flex;
+}
+
+.col18{
+    margin-left: 160px;
+}
+
+.flex{
+    margin-left: 160px ;
+    margin-top: 10px;
+    padding-left: 10px;
+    padding: 10px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
